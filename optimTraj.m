@@ -56,7 +56,7 @@ function soln = optimTraj(problem)
 %       .finalTime.upp = [scalar]
 %
 %       .state.low = [nState,1] = lower bound on the state
-%       .state.upp = [nState,1] = lower bound on the state
+%       .state.upp = [nState,1] = upper bound on the state
 %
 %       .initialState.low = [nState,1]
 %       .initialState.upp = [nState,1]
